@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Jayanth S S - Neuro Care Clinic",
+  "description": "Official appointment booking portal for Dr. Jayanth S S, Consultant Neurologist & Neuroimmunologist at Seshadripuram Bengaluru. Book clinic consultations, neurology assessments, and follow-ups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
